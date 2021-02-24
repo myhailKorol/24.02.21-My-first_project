@@ -1,0 +1,58 @@
+﻿html{
+ background:grey;}
+
+.block{ display: inline-block;
+         background:grey;
+         margin:150px;}
+h1{text-align:center;}
+h2{text-align:center;}
+.block1  {  width: 100%;
+    background: yellow;
+    display: inline-block;
+}
+ a{
+    text-decoration: none;
+   }
+ a:hover { text-decoration: underline; }
+  
+ .left{     float:left;
+    display: block; 
+}
+
+
+.up{display:inline;
+
+padding-right: 150px;
+}
+
+.write{margin: 10px;
+
+}
+
+.block2 {display: inline-block;}
+.block3{
+
+    float: left;
+margin-top: 2%;
+    background: white;
+    width: 80%;
+    padding: 15px;
+    
+   
+}
+
+.block4
+{
+    background: yellow;
+    float: right;
+   
+    height: 575px;
+    margin-top: 2%;
+    padding-right: 10px;}
+.end{
+background: white;
+width: 99%;
+    display: inline-block;
+    
+    margin-top: 2%;
+    padding-left: 10px;}
